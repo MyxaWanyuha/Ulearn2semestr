@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\bin\Debug\TodoApplication.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\bin\Debug\TodoApplication.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\bin\Debug\TodoApplication.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\LimitedSizeStack.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\TodoApplication.Properties.Resources.resources
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\LimitedSizeStack.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\TodoApplication.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\LimitedSizeStack\obj\Debug\TodoApplication.pdb

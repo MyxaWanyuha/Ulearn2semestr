@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\obj\Debug\hashes-readonly-bytes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\bin\Debug\readonly-bytes.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\bin\Debug\readonly-bytes.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\bin\Debug\readonly-bytes.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\bin\Debug\nunitlite.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\obj\Debug\hashes-readonly-bytes.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\obj\Debug\readonly-bytes.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\read-only-bytes\obj\Debug\readonly-bytes.pdb

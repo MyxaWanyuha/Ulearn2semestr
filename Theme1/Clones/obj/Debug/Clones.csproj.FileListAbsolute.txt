@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\bin\Debug\Clones.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\bin\Debug\Clones.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\bin\Debug\Clones.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\obj\Debug\Clones.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\obj\Debug\Clones.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\obj\Debug\Clones.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones\obj\Debug\Clones.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\bin\Debug\Clones.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\bin\Debug\Clones.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\bin\Debug\Clones.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\obj\Debug\Clones.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\obj\Debug\Clones.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\obj\Debug\Clones.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme1\Clones — копия\obj\Debug\Clones.pdb

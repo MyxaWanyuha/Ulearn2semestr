@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\obj\Debug\hashes-ghosts.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\bin\Debug\ghost.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\bin\Debug\ghost.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\bin\Debug\ghost.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\bin\Debug\nunitlite.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\obj\Debug\hashes-ghosts.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\obj\Debug\ghost.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme3\hashes-ghosts\obj\Debug\ghost.pdb

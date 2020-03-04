@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\bin\Debug\yield.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\bin\Debug\yield.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\bin\Debug\yield.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\obj\Debug\yield-return-smooth.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\obj\Debug\yield.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme2\yield-return-smooth\obj\Debug\yield.pdb
