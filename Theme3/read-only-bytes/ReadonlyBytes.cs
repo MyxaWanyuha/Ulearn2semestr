@@ -9,10 +9,10 @@ namespace hashes
 	{
 		private byte[] array;
 
-		private bool hashIsValid;
-
 		private int hash = 1;
 
+		private bool hashIsValid;
+		
 		public int Length { get => array.Length; }
 
 		public ReadonlyBytes(params byte[] arr)
@@ -21,7 +21,16 @@ namespace hashes
 			array = arr;
 		}
 
-		public byte this[int index] { get => array[index]; }
+		public byte this[int index] 
+		{ 
+			get
+			{
+				if (index > -1)
+					return array[index];
+				else
+					throw new IndexOutOfRangeException();
+			}
+		}
 
 		public IEnumerator<byte> GetEnumerator()
 		{
@@ -51,29 +60,26 @@ namespace hashes
 		{
 			unchecked
 			{
+				//hash = 1;
+				//for (int i = 0; i < array.Length; i++)
+				//	MakeHash(array[i]);
+				//return hash;
 				if (hashIsValid) return hash;
 				hashIsValid = true;
-
+				//hash = 1;
 				for (int i = 0; i < array.Length; i++)
-					hash = hash * 1337 ^ array[i];
+					hash = MakeHash(array[i]); //hash * 1337 ^ array[i];//
 				return hash;
 			}
 		}
 
-		public override string ToString()
+		private int MakeHash(byte element)
 		{
-			if (array.Length == 0) return "[]";
+			var h = 1337 ^ element;
 
-			var sb = new StringBuilder("[");
-			for (int i = 0; i < array.Length; i++)
-			{
-				sb.Append(array[i].ToString());
-				if(i != array.Length - 1)
-					sb.Append(", ");
-				else
-					sb.Append("]");
-			}
-			return sb.ToString();
+			return hash * h;
 		}
+
+		public override string ToString() => string.Format("[{0}]", string.Join(", ", array));
 	}
 }
