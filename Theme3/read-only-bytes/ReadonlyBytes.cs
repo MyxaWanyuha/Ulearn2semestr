@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Text;
 
 namespace hashes
 {
@@ -10,8 +9,6 @@ namespace hashes
 		private byte[] array;
 
 		private int hash = 1;
-
-		private bool hashIsValid;
 		
 		public int Length { get => array.Length; }
 
@@ -25,24 +22,18 @@ namespace hashes
 		{ 
 			get
 			{
-				if (index > -1)
+				if (index > -1 && index < array.Length)
 					return array[index];
 				else
 					throw new IndexOutOfRangeException();
 			}
 		}
 
-		public IEnumerator<byte> GetEnumerator()
-		{
-			return ((IEnumerable<byte>)array).GetEnumerator();
-		}
+        public IEnumerator<byte> GetEnumerator() => ((IEnumerable<byte>)array).GetEnumerator();
 
-		IEnumerator IEnumerable.GetEnumerator()
-		{
-			return ((IEnumerable<byte>)array).GetEnumerator();
-		}
+        IEnumerator IEnumerable.GetEnumerator() => ((IEnumerable<byte>)array).GetEnumerator();
 
-		public override bool Equals(object obj)
+        public override bool Equals(object obj)
 		{
 			var castObj = obj as ReadonlyBytes;
 			if (castObj == null 
@@ -60,24 +51,20 @@ namespace hashes
 		{
 			unchecked
 			{
-				//hash = 1;
-				//for (int i = 0; i < array.Length; i++)
-				//	MakeHash(array[i]);
-				//return hash;
-				if (hashIsValid) return hash;
-				hashIsValid = true;
-				//hash = 1;
+                if (hash != 1) return hash;
+
 				for (int i = 0; i < array.Length; i++)
-					hash = MakeHash(array[i]); //hash * 1337 ^ array[i];//
-				return hash;
+					hash = MakeHash(array[i]);
+                return hash;
 			}
 		}
 
 		private int MakeHash(byte element)
-		{
-			var h = 1337 ^ element;
-
-			return hash * h;
+        {
+            unchecked
+            {
+                return hash * 1337 ^ element;
+            }
 		}
 
 		public override string ToString() => string.Format("[{0}]", string.Join(", ", array));
