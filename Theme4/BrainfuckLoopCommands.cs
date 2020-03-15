@@ -33,7 +33,6 @@ namespace func.brainfuck
 				if (b.Memory[b.MemoryPointer] != 0)
 					b.InstructionPointer = dictBrackets[b.InstructionPointer];
 			});
-			
 		}
 	}
 }
