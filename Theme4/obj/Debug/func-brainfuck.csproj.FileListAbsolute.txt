@@ -7,3 +7,12 @@ C:\Users\User\Desktop\Ulearn2semestr\Theme4\obj\Debug\func-brainfuck.csprojAssem
 C:\Users\User\Desktop\Ulearn2semestr\Theme4\obj\Debug\func-brainfuck.csproj.CopyComplete
 C:\Users\User\Desktop\Ulearn2semestr\Theme4\obj\Debug\brainfuck.exe
 C:\Users\User\Desktop\Ulearn2semestr\Theme4\obj\Debug\brainfuck.pdb
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\bin\Debug\brainfuck.exe.config
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\bin\Debug\brainfuck.exe
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\bin\Debug\brainfuck.pdb
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\bin\Debug\nunitlite.dll
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\obj\Debug\func-brainfuck.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\obj\Debug\brainfuck.exe
+C:\Users\User\Documents\GitHub\Ulearn2semestr\Theme4\obj\Debug\brainfuck.pdb
