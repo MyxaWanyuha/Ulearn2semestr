@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\bin\Debug\slides.txt
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\bin\Debug\visits.txt
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\bin\Debug\linq-slideviews.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\bin\Debug\linq-slideviews.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\obj\Debug\linq-slideviews.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\obj\Debug\linq-slideviews.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\obj\Debug\linq-slideviews.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\obj\Debug\linq-slideviews.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme6\obj\Debug\linq-slideviews.csproj.CoreCompileInputs.cache

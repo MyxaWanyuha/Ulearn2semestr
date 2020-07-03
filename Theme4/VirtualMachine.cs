@@ -29,9 +29,22 @@ namespace func.brainfuck
 			for (; InstructionPointer < Instructions.Length; InstructionPointer++)
 			{
 				var instruction = Instructions[InstructionPointer];
-				if (registeredCommands.ContainsKey(instruction))
+				if(registeredCommands.TryGetValue(instruction, out var b))
 					registeredCommands[instruction](this);
+				//registeredCommands[instruction](this);
+				//if (registeredCommands.ContainsKey(instruction))
+				//	registeredCommands[instruction](this);
+
+				//try
+				//{
+				//	registeredCommands[Instructions[InstructionPointer]](this);
+				//}
+				//catch (KeyNotFoundException)
+				//{
+				//	Console.WriteLine("Key is not found.");
+				//}
 			}
+			
 		}
 	}
 }

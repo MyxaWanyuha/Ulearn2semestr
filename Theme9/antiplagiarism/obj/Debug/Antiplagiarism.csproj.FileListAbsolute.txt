@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\bin\Debug\Antiplagiarism.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\bin\Debug\Antiplagiarism.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\bin\Debug\Antiplagiarism.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\bin\Debug\nunitlite.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\obj\Debug\Antiplagiarism.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\obj\Debug\Antiplagiarism.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\obj\Debug\Antiplagiarism.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\obj\Debug\Antiplagiarism.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\antiplagiarism\obj\Debug\Antiplagiarism.pdb

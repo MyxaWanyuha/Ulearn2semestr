@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\Images\Gold.png
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\Images\Monster.png
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\Images\Sack.png
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\Images\Terrain.png
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\11-digger.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\11-digger.exe
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\11-digger.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\11-digger.exe
+C:\Users\User\Desktop\Ulearn2semestr\Digger\obj\Debug\11-digger.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Digger\bin\Debug\Images\Digger1.png

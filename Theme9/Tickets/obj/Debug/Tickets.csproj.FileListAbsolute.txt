@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\bin\Debug\Tickets.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\bin\Debug\Tickets.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\bin\Debug\nunitlite.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\obj\Debug\Tickets.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\obj\Debug\Tickets.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme9\Tickets\obj\Debug\Tickets.pdb

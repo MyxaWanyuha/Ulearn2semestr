@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\images\rocket.png
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\images\target.png
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\func-rocket.exe.config
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\func-rocket.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\func-rocket.pdb
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func-rocket.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func_rocket.Properties.Resources.resources
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func-rocket.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func-rocket.csproj.CopyComplete
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func-rocket.exe
+C:\Users\User\Desktop\Ulearn2semestr\Theme5\rocket\obj\Debug\func-rocket.pdb
